@@ -1,0 +1,26 @@
+	 	table.dataTable tbody tr.rowpval1{background-color: #ffff00;color:#000;}
+	  	table.dataTable tbody tr.rowpval2{background-color: #ffbb00;color:#000;}
+	    table.dataTable tbody tr.rowpval3{background-color: #ffaa11;}
+	    table.dataTable tbody tr.rowpval4{background-color: #ff9900;}
+	    table.dataTable tbody tr.rowpval5{background-color: #ff7700;}
+	    table.dataTable tbody tr.rowpval6{background-color: #ff5500;}
+	    table.dataTable tbody tr.rowpval7{background-color: #ff3300;color:#FFF;}
+	    table.dataTable tbody tr.rowpval8{background-color: #cc2222;color:#FFF;}
+		table.dataTable tbody tr.rowpval9{background-color: #aa0000;color:#FFF;}
+
+	  #filter{
+	  width: 340px;
+    position: absolute;
+    padding-top: 40px;
+    margin-left: 160px;
+    z-index: 9;
+		  display: none;
+	  }
+	  
+	  #go_label,#pfam_label,#kegg_label{
+		   display: none;
+	  }
+
+
+#go_table thead,
+#go_table th {text-align: left;} {text-align: left;}
