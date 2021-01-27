@@ -1,9 +1,7 @@
 # Enrichment
-
-<code>
-  php -S localhost:8000
-</code>  
-  
-  
-  
-  Then go to the browse and open localhost:8000/test.php
+```
+git clone https://github.com/PlantGenIE/enrichment.git
+cd enrichment
+php -S localhost:8000
+```
+Then go to the browse and open localhost:8000/test.php
